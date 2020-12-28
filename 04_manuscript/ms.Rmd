@@ -1,0 +1,12 @@
+---
+title: "The effect of reproductive synchrony on mating network properties"
+author: "Amy Waananen"
+output:
+  word_document:
+      reference_docx: docx_template.docx
+  pdf_document: default
+  html_document: default
+---
+
+Abstract
+========================================================================
